@@ -35,3 +35,7 @@ body{
 .flash{
   background-color: azure;
 }
+
+.userFlash{
+  background-color: chartreuse;
+}

@@ -39,3 +39,7 @@ body{
 .userFlash{
   background-color: chartreuse;
 }
+
+.game-over{
+  background-color: red;
+}
